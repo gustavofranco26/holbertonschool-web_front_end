@@ -264,24 +264,17 @@ ul.row {
 }
 
 .card-testimonial {
-    /* set to horizontal align */
     text-align: center;
 }
 
 .card-testimonial .card-avatar {
-    /*border style */
     border-radius: 50%;
-    /* according with root element */
     width: 10rem;
-    /*according with root element */
     height: 10rem;
 }
 
 .card-testimonial .card-quote cite {
-    /* set the display (render) */
     display: block;
-    /*padding on top according the root element */
     padding-top: 1rem;
-    /*color text */
     color: var(--color-primary);
 }
